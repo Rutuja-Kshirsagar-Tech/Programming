@@ -10,7 +10,6 @@ class Program79
     }
 }
 
-
 class Logic
 {
     void findMin(int a, int b,int c)
